@@ -2,4 +2,3 @@
 df -h
 df -m
 df -k
-df -t
